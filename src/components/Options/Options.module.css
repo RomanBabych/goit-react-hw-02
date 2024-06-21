@@ -1,0 +1,8 @@
+.buttonsWrapper {
+  display: flex;
+  gap: 5px;
+}
+
+.optionsBtn {
+  font-family: Arial, Helvetica, sans-serif;
+}
